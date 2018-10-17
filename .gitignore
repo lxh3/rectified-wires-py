@@ -1,0 +1,12 @@
+*.pyc
+
+2_10
+internalREADME
+
+python/programs/old-code/
+python/programs/old-logs/
+python/programs/working-version/
+
+C_for_testing/
+Ensemble_MNIST/
+saves/
